@@ -71,6 +71,8 @@ Every pack should provide an options argument to disable particular plugnis.
 ##### TODO
 
 - add links to plugins 
-- add links to packs
 
 [1]: https://github.com/postcss/postcss
+[2]: http://cssnext.io/
+[3]: http://simplaio.github.io/rucksack/
+[4]: https://jonathantneal.github.io/precss/
