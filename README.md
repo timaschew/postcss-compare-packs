@@ -1,7 +1,7 @@
 # postcss-compare-packs
 compare most popular postcss packs like cssnext, rucksack and precss
 
-| PostCSS Plugin      | cssnext                        | rucksack                       | precss               |
+| PostCSS Plugin      | postcss-cssnext                | rucksack                       | precss               |
 | ------------------- | ------------------------------ | ------------------------------ | -------------------- |
 | autoprefixer        | :white_check_mark:             | :white_check_mark:             |                      |
 | laggard             |                                | :white_check_mark:             |                      |
