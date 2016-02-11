@@ -2,8 +2,8 @@
 
 Compare most popular [PostCSS][1] packs like cssnext, rucksack and precss
 
-| PostCSS Plugin             | [postcss-cssnext][2]           | [rucksack][3]                  | [precss][4]          |
-| -------------------------- | ------------------------------ | ------------------------------ | -------------------- |
+| PostCSS Plugin               | [postcss-cssnext][2]           | [rucksack][3]                  | [precss][4]          |
+| ---------------------------- | ------------------------------ | ------------------------------ | -------------------- |
 | [autoprefixer][10]           | :white_check_mark:             | :white_check_mark:             |                      |
 | [laggard][11]                |                                | :white_check_mark:             |                      |
 | [pixrem][12]                 | :white_check_mark:             |                                |                      |
@@ -46,8 +46,8 @@ Compare most popular [PostCSS][1] packs like cssnext, rucksack and precss
 
 ##### What does it mean if a plugin exists in more than one pack?
 
-Assuming that each pack should focus on just one topic, it's an indicator that
-this strategy was not achieved or the topic was chosen in a wrong aspect. Read more in the [PostCSS Plugin Guideline - Do one thing, and do it well](https://github.com/postcss/postcss/blob/master/docs/guidelines/plugin.md#12-do-one-thing-and-do-it-well)
+Assuming that each pack should focus on just one topic, it's an indicator that one of the pack did 
+not achieve this strategy or the aspect of the topic was chosen wrongly. Read more in the [PostCSS Plugin Guideline - Do one thing, and do it well](https://github.com/postcss/postcss/blob/master/docs/guidelines/plugin.md#12-do-one-thing-and-do-it-well)
 
 ##### Can I use multiple packs at once?
 
