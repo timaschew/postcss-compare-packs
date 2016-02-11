@@ -13,3 +13,8 @@ compare most popular postcss packs like cssnext, rucksack and precss
 | -calc               | :white_check_mark:             |                                |                      |
 | -clearfix           |                                | :white_check_mark:             |                      |
 | -color-function     | :white_check_mark:             |                                | :white_check_mark:   |
+
+##### TODO
+
+- add links to plugins 
+- add links to packs
