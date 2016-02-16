@@ -1,8 +1,8 @@
 # postcss-compare-packs
 
-Compare most popular [PostCSS][1] packs like cssnext, rucksack and precss
+Compare most popular [PostCSS][1] packs like cssnext, rucksack and PreCSS
 
-| PostCSS Plugin               | [postcss-cssnext][2]           | [rucksack][3]                  | [precss][4]          |
+| PostCSS Plugin               | [postcss-cssnext][2]           | [rucksack][3]                  | [PreCSS][4]          |
 | ---------------------------- | ------------------------------ | ------------------------------ | -------------------- |
 | [autoprefixer][10]           | :white_check_mark:             | :white_check_mark:             |                      |
 | [laggard][11]                |                                | :white_check_mark:             |                      |
@@ -65,7 +65,8 @@ doesn't do anything if it will process the data a second time.
 
 ##### Can I disable particular plugins within a pack?
 
-Every pack should provide an options argument to disable particular plugnis.
+Every pack should provide an options argument to disable particular plugnis.  
+cssnext provides a `browsers` option to enable/disable features automatically based on the [caniuse database](http://caniuse.com/).
 
 
 [1]: http://postcss.org/
