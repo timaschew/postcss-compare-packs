@@ -35,7 +35,7 @@ Compare most popular [PostCSS][1] packs like cssnext, rucksack and PreCSS
 | [-nesting][38]               | :white_check_mark:             |                                |  :white_check_mark:  |
 | [-partial-import][39]        |                                |                                |  :white_check_mark:  |
 | [-position][40]              |                                | :white_check_mark:             |                      |
-| [-property-lookup][41]       |                                | :white_check_mark:             |                      |
+| [-property-lookup][41]       |                                | :white_check_mark:             |  :white_check_mark:  |
 | [-pseudo-class-any-link][42] | :white_check_mark:             |                                |                      |
 | [-pseudoelements][43]        | :white_check_mark:             |                                |                      |
 | [-quantity-queries][44]      |                                | :white_check_mark:             |                      |
